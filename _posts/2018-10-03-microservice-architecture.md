@@ -3,6 +3,7 @@ layout: post
 title:  "마이크로서비스 아키텍처"
 author: "Sangbeom"
 ---
+ㅁㅁㅁㅁ
 ## Monlithic Architecture
 * 하나의 서버에 모든 비지니스 로직이 들어가 있는 형태
 * 하나의 중앙집중화된 데이타 베이스에 모든 데이터가 저장
