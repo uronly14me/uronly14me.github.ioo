@@ -4,6 +4,7 @@ title: "Ubuntu에 Elasticsearch 6.x 설치"
 author: "Sangbeom"
 ---
 
+ㅁㅁㅁㅁㅁㅁㅁ
 ## Elasticsearch 설치하기
 ```
 wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
