@@ -3,7 +3,6 @@ layout: post
 title: "Ubuntu에 Elasticsearch 6.x 설치"
 author: "Sangbeom"
 ---
-
 ㅁㅁㅁㅁㅁㅁㅁ
 ## Elasticsearch 설치하기
 ```
