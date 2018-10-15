@@ -2,12 +2,6 @@
 layout: post
 title: "Ubuntu에 Elasticsearch 6.x 설치"
 author: "Sangbeom"
-categories:
-  - 서버
-tags:
-  - server
-  - ubuntu
-  - elasticsearch
 ---
 
 ## Elasticsearch 설치하기
