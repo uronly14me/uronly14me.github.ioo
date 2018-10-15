@@ -28,6 +28,6 @@ sudo /bin/systemctl start elasticsearch.service
 ```
 
 ## Elasticsearch 서비스 확인
-{% highlight %}
+```
 curl 127.0.0.1:9200
-{% endhighlight %}
+```
