@@ -2,11 +2,6 @@
 layout: post
 title:  "마이크로서비스 아키텍처"
 author: "Sangbeom"
-categories:
-  - 서버
-tags:
-  - server
-  - microservicearchitecture
 ---
 ## Monlithic Architecture
 * 하나의 서버에 모든 비지니스 로직이 들어가 있는 형태
