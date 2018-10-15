@@ -24,5 +24,16 @@ sudo vi /etc/elasticsearch/elasticsearch.yml
 ...
 network.host 0.0.0.0
 {% endhighlight %}
-i를 눌러 insert mode에서 파일을 수정하고 esc를 눌러 normal mode로 나온다음 ₩₩₩:wq₩₩₩로 저장을 한다.
+i를 눌러 insert mode에서 파일을 수정하고 esc를 눌러 normal mode로 나온다음 ₩:wq₩로 저장을 한다.
 
+## Elasticsearch 서비스로 실행
+{% highlight %}
+sudo /bin/systemctl daemon-reload
+sudo /bin/systemctl enable elasticsearch.service
+sudo /bin/systemctl start elasticsearch.service
+{% endhighlight %}
+
+## Elasticsearch 서비스 확인
+{% highlight %}
+curl 127.0.0.1:9200
+{% endhighlight %}
