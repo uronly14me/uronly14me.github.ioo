@@ -2,7 +2,7 @@
 layout: post
 title: "About"
 author: "Chester"
-permalink: /about/
+permalink: /profile/
 ---
 
 Sangbeom Han at CashWalk, INC.
